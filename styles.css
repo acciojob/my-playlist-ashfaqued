@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+a{
+	text-decoration:none;
+}
+l1{
+	list-style:none;
+	}
+body{
+	background:#cccccc;
+}
+.player_one{
+	background:rgb(255,255,255);
+}
+.player_two{
+	background:rgb(255,255,255);
+}
+video{
+	display:block;
+	margin:auto;
+}
+audio{
+	display:block;
+	margin:auto;
+}
